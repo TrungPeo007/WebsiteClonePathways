@@ -1,0 +1,82 @@
+<header class="header shadow-sm bg-white">
+  <div class="container d-flex justify-content-between align-items-center py-2">
+    <!-- Logo -->
+    <div class="d-flex align-items-center">
+      <h2 class="fw-bold text-dark m-0">PATHWAYS</h2>
+    </div>
+
+    <!-- Contact Info -->
+    <div class="d-flex align-items-center gap-3">
+      <div class="d-flex align-items-center text-secondary">
+        <i class="fa-solid fa-phone text-warning me-2"></i>
+        <span>1900.636000</span>
+      </div>
+      <div class="d-flex align-items-center text-secondary">
+        <i class="fa-solid fa-envelope text-warning me-2"></i>
+        <span>hi@pathways.abc</span>
+      </div>
+    </div>
+
+    <!-- Search Box -->
+    <div class="d-flex align-items-center">
+      <input type="text" class="form-control rounded-start-2" placeholder="Bạn cần tìm gì..." />
+      <button class="btn btn-warning rounded-end-2 text-white">
+        <i class="fa-solid fa-magnifying-glass"></i>
+      </button>
+    </div>
+
+    <!-- Account -->
+    <div class="d-flex align-items-center text-secondary ms-3">
+      <i class="fa-solid fa-user me-2"></i>
+      <span>Tài khoản</span>
+    </div>
+  </div>
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg bg-light border-top">
+    <div class="container">
+      <ul class="navbar-nav mx-auto fw-semibold">
+        <li class="nav-item dropdown">
+          <a class="nav-link text-warning" href="#">TRANG CHỦ</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-dark" href="#" data-bs-toggle="dropdown">GIỚI THIỆU</a>
+          <ul class="dropdown-menu border-0 shadow">
+            <li><a class="dropdown-item bg-warning text-white" href="#">Kiểu hiển thị 1</a></li>
+            <li><a class="dropdown-item bg-warning text-white" href="#">Kiểu hiển thị 2</a></li>
+            <li><a class="dropdown-item bg-warning text-white" href="#">Kiểu hiển thị 3</a></li>
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-dark" href="#" data-bs-toggle="dropdown">ĐIỂM ĐẾN TRONG NƯỚC</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-dark" href="#" data-bs-toggle="dropdown">ĐIỂM ĐẾN NƯỚC NGOÀI</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-dark" href="#" data-bs-toggle="dropdown">CẨM NANG DU LỊCH</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="#">LIÊN HỆ</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</header>
+
+<style>
+.navbar-nav .nav-link {
+  padding: 10px 20px;
+  transition: color 0.3s ease;
+}
+.navbar-nav .nav-link:hover {
+  color: #ff6600;
+}
+.dropdown-menu .dropdown-item {
+  background-color: #ff6600;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+.dropdown-menu .dropdown-item:hover {
+  background-color: #e65c00;
+}
+</style>
