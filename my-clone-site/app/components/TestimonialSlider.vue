@@ -63,7 +63,6 @@ onMounted(() => {
   setTimeout(() => (isReady.value = true), 300)
 })
 
-// ✅ Dữ liệu khách hàng
 const testimonials = [
   {
     name: 'Nguyễn Văn A',

@@ -23,12 +23,12 @@
             <i class="fa-solid fa-chevron-down ms-1"></i>
           </a>
           <ul class="dropdown-menu">
-            <li><a href="#">Phú Quốc</a></li>
-            <li><a href="#">Nha Trang</a></li>
-            <li><a href="#">Sapa</a></li>
-            <li><a href="#">Hà Nội</a></li>
-            <li><a href="#">Cần Thơ</a></li>
-            <li><a href="#">Đà Lạt</a></li>
+            <li><a href="/domestic">Phú Quốc</a></li>
+            <li><a href="/domestic">Nha Trang</a></li>
+            <li><a href="/domestic">Sapa</a></li>
+            <li><a href="/domestic">Hà Nội</a></li>
+            <li><a href="/domestic">Cần Thơ</a></li>
+            <li><a href="/domestic">Đà Lạt</a></li>
           </ul>
         </li>
 
@@ -38,11 +38,11 @@
             <i class="fa-solid fa-chevron-down ms-1"></i>
           </a>
           <ul class="dropdown-menu">
-            <li><a href="#">Châu Âu</a></li>
-            <li><a href="#">Nhật Bản</a></li>
-            <li><a href="#">Thái Lan</a></li>
-            <li><a href="#">HongKong</a></li>
-            <li><a href="#">Singapore</a></li>
+            <li><a href="/foreigndestin">Châu Âu</a></li>
+            <li><a href="/foreigndestin">Nhật Bản</a></li>
+            <li><a href="/foreigndestin">Thái Lan</a></li>
+            <li><a href="/foreigndestin">HongKong</a></li>
+            <li><a href="/foreigndestin">Singapore</a></li>
           </ul>
         </li>
 

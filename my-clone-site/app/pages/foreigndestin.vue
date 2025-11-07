@@ -2,5 +2,5 @@
     <TourPage />
 </template>
 <script setup>
-import TourPage from '~/components/Foreign destinations/TourPage.vue';
+import TourPage from '~/components/Foreigndestinations/TourPage.vue';
 </script>

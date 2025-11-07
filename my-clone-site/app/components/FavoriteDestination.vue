@@ -52,7 +52,7 @@
 <script setup>
 const destinations = [
   {
-    image: "/images/bacau.jpg",
+    image: "/images/bacau.webp",
     sale: "-6% Off",
     highlight: true,
     location: "Paris",
@@ -61,7 +61,7 @@ const destinations = [
     oldPrice: 94000000,
   },
   {
-    image: "/images/bacaunauy-thuydien.jpg",
+    image: "/images/bacaunauy-thuydien.webp",
     sale: "-7% Off",
     highlight: true,
     location: "London",
@@ -71,7 +71,7 @@ const destinations = [
     oldPrice: 108000000,
   },
   {
-    image: "/images/bacau-na-uy-thuydien-phanlan.jpg",
+    image: "/images/bacau-na-uy-thuydien-phanlan.webp",
     sale: "-7% Off",
     highlight: true,
     location: "Italy",
@@ -81,7 +81,7 @@ const destinations = [
     oldPrice: 138000000,
   },
   {
-    image: "/images/black-knicker.jpg",
+    image: "/images/black-knicker.webp",
     sale: "-18% Off",
     highlight: false,
     location: "Hồ Chí Minh",
@@ -90,7 +90,7 @@ const destinations = [
     oldPrice: 15000000,
   },
     {
-    image: "/images/AnhParis.jpg",
+    image: "/images/AnhParis.webp",
     sale: "-6% Off",
     highlight: true,
     location: "ThaiLand",
@@ -99,7 +99,7 @@ const destinations = [
     oldPrice: 94000000,
   },
     {
-    image: "/images/cauvang.jpg",
+    image: "/images/cauvang.webp",
     sale: "-6% Off",
     highlight: true,
     location: "Paris",
@@ -108,7 +108,7 @@ const destinations = [
     oldPrice: 94000000,
   },
     {
-    image: "/images/cauvang2.jpg",
+    image: "/images/cauvang2.webp",
     sale: "-6% Off",
     highlight: true,
     location: "Paris",
@@ -117,7 +117,7 @@ const destinations = [
     oldPrice: 94000000,
   },
     {
-    image: "/images/newzealand.jpg",
+    image: "/images/newzealand.webp",
     sale: "-6% Off",
     highlight: true,
     location: "Paris",
