@@ -18,7 +18,7 @@
 </template>
 
 <script setup>
-import BannerSection from './PageForeignDestinations/BannerSection.vue';
-import FilterSidebar from './PageForeignDestinations/FilterSidebar.vue';
-import ProductGrid from './PageForeignDestinations/ProductGrid.vue';
+import BannerSection from '~/components/Foreigndestinations/PageForeignDestinations/BannerSection.vue';
+import FilterSidebar from '~/components/Foreigndestinations/PageForeignDestinations/FilterSidebar.vue';
+import ProductGrid from '~/components/Foreigndestinations/PageForeignDestinations/ProductGrid.vue';
 </script>

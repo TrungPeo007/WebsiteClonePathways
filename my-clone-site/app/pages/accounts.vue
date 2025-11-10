@@ -1,9 +1,9 @@
 <template>
   <div>
-    <Accounts />
+   <accounts/>
   </div>
 </template>
 
 <script setup>
-import Accounts from '~/app/components/accounts/accounts.vue'
+import accounts from '~/components/accounts/accounts.vue';
 </script>

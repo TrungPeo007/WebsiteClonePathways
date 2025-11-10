@@ -23,12 +23,12 @@
             <i class="fa-solid fa-chevron-down ms-1"></i>
           </a>
           <ul class="dropdown-menu">
-            <li><a href="/domestic">Phú Quốc</a></li>
-            <li><a href="/domestic">Nha Trang</a></li>
-            <li><a href="/domestic">Sapa</a></li>
-            <li><a href="/domestic">Hà Nội</a></li>
-            <li><a href="/domestic">Cần Thơ</a></li>
-            <li><a href="/domestic">Đà Lạt</a></li>
+            <li><a href="/Domesticdestinations">Phú Quốc</a></li>
+            <li><a href="/Domesticdestinations">Nha Trang</a></li>
+            <li><a href="/Domesticdestinations">Sapa</a></li>
+            <li><a href="/Domesticdestinations">Hà Nội</a></li>
+            <li><a href="/Domesticdestinationsc">Cần Thơ</a></li>
+            <li><a href="/Domesticdestinations">Đà Lạt</a></li>
           </ul>
         </li>
 
@@ -38,11 +38,11 @@
             <i class="fa-solid fa-chevron-down ms-1"></i>
           </a>
           <ul class="dropdown-menu">
-            <li><a href="/foreigndestin">Châu Âu</a></li>
-            <li><a href="/foreigndestin">Nhật Bản</a></li>
-            <li><a href="/foreigndestin">Thái Lan</a></li>
-            <li><a href="/foreigndestin">HongKong</a></li>
-            <li><a href="/foreigndestin">Singapore</a></li>
+            <li><a href="/Foreigndestinations">Châu Âu</a></li>
+            <li><a href="/Foreigndestinations">Nhật Bản</a></li>
+            <li><a href="/Foreigndestinations">Thái Lan</a></li>
+            <li><a href="/Foreigndestinations">HongKong</a></li>
+            <li><a href="/Foreigndestinations">Singapore</a></li>
           </ul>
         </li>
 
@@ -72,7 +72,6 @@
   list-style: none;
   gap: 40px;
   font-size: 14px;
-  /* 👈 giảm kích thước chữ */
 }
 
 .menu li {

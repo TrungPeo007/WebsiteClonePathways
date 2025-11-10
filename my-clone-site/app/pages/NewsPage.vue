@@ -15,6 +15,6 @@
 </template>
 
 <script setup>
-import NewsList from './NewsList.vue'
-import NewsSidebar from './NewsSidebar.vue'
+import NewsList from '~/components/news/NewsList.vue';
+import NewsSidebar from '~/components/news/NewsSidebar.vue';
 </script>

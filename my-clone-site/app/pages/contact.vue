@@ -5,6 +5,6 @@
     </div>
 </template>
 <script setup>
-import ContactInfo from '@/components/contact/ContactInfo.vue';
-import ContactMap from '@/components/contact/ContactMap.vue';
+import ContactInfo from '~/components/contact/ContactInfo.vue';
+import ContactMap from '~/components/contact/ContactMap.vue';
 </script>
